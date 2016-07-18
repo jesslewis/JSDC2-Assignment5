@@ -1,0 +1,36 @@
+.container {
+	margin-top: 20px;
+}
+.box {
+	margin: 0 auto;
+	width: 200px;
+	padding: 10px 0;
+	background-color: #3b3b3b;
+	border: 1px solid #3b3b3b;
+	border-radius: 12px;
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	color: #fff;
+}
+input {
+	background-color: transparent;
+	border: transparent;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+	font-size: 30px;
+	margin-bottom: 10px;
+}
+button {
+	border: 1px solid #000;
+	border-radius: 6px;
+	padding: 8px 10px;
+}
+button:hover, button:active, button:focus {
+	background-color: #eee;
+}
+button:last-child {
+	margin-bottom: 20px;
+}
